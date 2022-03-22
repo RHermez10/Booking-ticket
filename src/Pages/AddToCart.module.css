@@ -1,0 +1,56 @@
+.center {
+    margin: 6rem;
+    margin-top: 5rem;
+    text-align: center;
+}
+
+p {
+    color: rgba(255, 255, 255, 0.708);
+    font-style: italic;
+
+}
+
+.title {
+    font-size: 34px;
+    font-weight: bolder;
+}
+
+.txtCenter {
+    margin-top: -3rem
+}
+
+.greenText {
+    color: #37AEAB;
+    font-weight: bold;
+    margin-top: -3rem;
+}
+
+.price {
+    color: white;
+    font-size: 27px;
+    text-shadow: 1px 2px #F56B9A;
+    font-weight: bold;
+
+}
+
+.border {
+    border: 2px solid #F56B9A;
+}
+
+.bttn {
+    background-color: #37AEAB;
+    margin-left: -3rem;
+    padding: 1rem 8rem 1rem 8rem;
+    font-family: 'Anton',
+        sans-serif;
+    font-family: 'Fira Sans',
+        sans-serif;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.btn {
+    text-decoration: none;
+    color: white;
+
+}

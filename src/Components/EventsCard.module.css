@@ -1,0 +1,50 @@
+.wrapper {
+    display: flex;
+    gap: 2rem;
+}
+
+.center {
+    margin-left: 2rem;
+}
+
+button {
+    border: none;
+    background-color: transparent;
+}
+
+.input {
+    margin: 0 auto;
+}
+
+.btn {
+    color: white;
+    font-size: 27px;
+    text-shadow: 1px 2px #F56B9A;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.flex {
+    display: flex;
+    gap: 5rem;
+    margin-left: 6.5rem;
+    color: rgba(255, 255, 255, 0.708);
+    font-weight: bolder;
+}
+
+.green {
+    color: #37AEAB;
+}
+
+.date {
+    border: 1px solid white;
+    width: 54px;
+    height: 54px;
+    padding: 0.5rem;
+
+}
+
+.italic {
+    font-style: italic;
+    color: rgba(255, 255, 255, 0.708);
+}
